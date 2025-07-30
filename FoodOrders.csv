@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,restaurant,food_item,category,quantity,price,total,tips
+2001,U001,2024-02-01,Pizza Palace,Pepperoni Pizza,Fast Food,2,12,24,2
+2002,U002,2024-02-01,Sushi World,Salmon Roll,Japanese,3,8,24,3
+2003,U003,2024-02-02,Burger Town,Cheeseburger,Fast Food,1,10,10,1
+2004,U001,2024-02-03,Taco House,Chicken Taco,Mexican,4,4,16,2
+2005,U004,2024-02-04,Pizza Palace,Margherita Pizza,Fast Food,1,11,11,1
+2006,U002,2024-02-05,Sushi World,Tuna Roll,Japanese,2,9,18,2
+2007,U003,2024-02-06,Burger Town,Fries,Fast Food,2,3,6,0.5
+2008,U005,2024-02-07,Taco House,Beef Burrito,Mexican,2,7,14,1
+2009,U004,2024-02-08,Sushi World,Tempura,Japanese,1,12,12,1
+2010,U005,2024-02-09,Burger Town,Chicken Sandwich,Fast Food,1,9,9,0.5
