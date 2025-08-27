@@ -1,0 +1,11 @@
+id,nombre,edad,salario,departamento,fecha_ingreso,email
+1,Ana Gómez,29,45000,Recursos Humanos,2018-05-12,ana.gomez@empresa.com
+2,Juan Perez,NaN,52000,Ventas,2019-07-01,juan.perez@empresa
+3,,35,60000,IT,2020-03-15,maria.lopez@empresa.com
+4,Pedro López,41,,IT,2017-11-30,pedro.lopez@empresa.com
+5,Ana Gómez,29,45000,Recursos Humanos,2018-05-12,ana.gomez@empresa.com
+6,Carlos Ruiz,28,38000,NaN,2021-01-20,
+7,Laura Martínez,33,NaN,Marketing,2019-08-25,laura.martinez@empresa.com
+8,Juan Perez,38,52000,VENTAS,2019-07-01,juan.perez@empresa.com
+9,Miguel Torres,27,42000,IT,2022-09-10,miguel.torres@empresa
+10,1234,NaN,NaN,Recursos Humanos,2018-13-40,invalido@@empresa
